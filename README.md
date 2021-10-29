@@ -17,3 +17,5 @@ h. 09:30-11:30 Creative Coding: Horizon by Algorithms<br/>
 h. 11:30-13:30 Creative Coding: Behind the Interaction<br/>
 h. 14:30-16:30 Creative Coding: Generative Art <br/>
 h. 16:30-18:30 Creative Coding: Interception, the Sense of Position<br/><br/>
+
+# Resources
