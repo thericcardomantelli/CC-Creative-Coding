@@ -28,4 +28,5 @@ h. 14:30-18:30 Physical Prototyping: Sensing the World with Arduino<br/><br/>
 **Tuesday 17 November 2021**<br/>
 h. 09:30-13:30 Physical Prototyping: Connected Objects<br/>
 
+# Resources
 
