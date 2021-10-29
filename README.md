@@ -13,5 +13,7 @@ Download RM Keynote from here > https://bit.ly/3pMpEfa
 **Thursday 4 November 2021**<br/>
 h.09:30-13:30 Creative Coding: Exploring the Beauty of Algorithms<br/><br/>
 **Friday 5 November 2021**<br/>
-h. 09:30-13:30 Creative Coding: Horizon by Algorithms, Behind the Interaction<br/>
-h. 14:30-18:30 Creative Coding: Generative Art and Interception, the Sense of Position<br/><br/>
+h. 09:30-11:30 Creative Coding: Horizon by Algorithms<br/>
+h. 11:30-13:30 Creative Coding: Behind the Interaction<br/>
+h. 14:30-16:30 Creative Coding: Generative Art <br/>
+h. 16:30-18:30 Creative Coding: Interception, the Sense of Position<br/><br/>
