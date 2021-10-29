@@ -17,5 +17,19 @@ h. 09:30-11:30 Creative Coding: Horizon by Algorithms<br/>
 h. 11:30-13:30 Creative Coding: Behind the Interaction<br/>
 h. 14:30-16:30 Creative Coding: Generative Art <br/>
 h. 16:30-18:30 Creative Coding: Interception, the Sense of Position<br/><br/>
-
 # Resources
+**Online**
+Processing.org [https://processing.org/] Official Website<br/> 
+P5JS Editor [https://editor.p5js.org/]<br/>
+P5JS Official Website [https://p5js.org/]<br/>
+Codepen.io [https://codepen.io/]
+<br/>
+**Books**
+The Nature of Code by Daniel Shiffman [https://natureofcode.com/book/]<br/>
+Generative Design by Hartmut Bohnacker [https://amzn.to/3Bq6uOg]<br/>
+Mathematics and Physics for Programmers [https://amzn.to/3CuDOoW]<br/>
+The Computational Beauty of Nature by Gary William Flake [https://amzn.to/3jIyOFN]<br/><br/>
+
+
+
+
