@@ -29,12 +29,16 @@ The Nature of Code by Daniel Shiffman [https://natureofcode.com/book/]<br/>
 Generative Design by Hartmut Bohnacker [https://amzn.to/3Bq6uOg]<br/>
 Mathematics and Physics for Programmers [https://amzn.to/3CuDOoW]<br/>
 The Computational Beauty of Nature by Gary William Flake [https://amzn.to/3jIyOFN]<br/><br/>
-<br/><br/>
+<br/>
 **Movies**</br>
 Hello World! Processing [https://vimeo.com/60735314]
 The Code by Marcus Du Sautoy [https://www.youtube.com/watch?v=eOMZtBacarY]
 PI Directed by Darren Aronofsky [https://www.youtube.com/watch?v=jo18VIoR2xU]
-<br/><br/><br>
+<br/><br/>
+**Social Media**<br/>
+Creative Coding & Generative Art [https://www.facebook.com/groups/505917996135466/]
+r/CreativeCoding [https://www.reddit.com/r/creativecoding/]<br/>
+## Manifesto
 "Se ascolto dimentico, <br>se vedo ricordo, <br>se faccio capisco." <br><em>Bruno Munari</em><br><br/>
 "If I hear I forget, <br>if I see I remember, <br>if I do understand." <br><em>Bruno Munari</em><br><br>
 
