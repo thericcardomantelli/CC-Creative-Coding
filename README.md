@@ -1,4 +1,4 @@
-# CC---Creative-Coding, Autumn 2021
+# CC · Creative-Coding, Autumn 2021
 Creative Coding course @ DA Domus Academy 
 
 “Creative Coding” is a practice-based course designed to teach basic programming skills in the context of critical and cultural media studies and the digital humanities. The course requires no prior programming experience, simply a goodwill to explore code at a more technical level with the aim of using computation as an expressive, analytical, critical and visualizing medium. We transform computational entergy in to creative potential.
