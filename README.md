@@ -15,18 +15,3 @@ h.09:30-13:30 Creative Coding: Exploring the Beauty of Algorithms<br/><br/>
 **Friday 5 November 2021**<br/>
 h. 09:30-13:30 Creative Coding: Horizon by Algorithms, Behind the Interaction<br/>
 h. 14:30-18:30 Creative Coding: Generative Art and Interception, the Sense of Position<br/><br/>
-
-## Week 2 · Physical Computing & Tangible Interaction<br/>
-**Monday 8 November 2021**<br/>
-h. 14:30-18:30 Physical Prototyping: Introduction to Arduino<br/><br/>
-
-## Week 3 · Physical Computing & Tangible Interaction<br/>
-
-**Monday 16 November 2021**<br/>
-h. 09:30-13:30 Physical Prototyping: Tinkering with Electronics<br/>
-h. 14:30-18:30 Physical Prototyping: Sensing the World with Arduino<br/><br/>
-**Tuesday 17 November 2021**<br/>
-h. 09:30-13:30 Physical Prototyping: Connected Objects<br/>
-
-# Resources
-
